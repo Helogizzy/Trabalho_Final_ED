@@ -1,5 +1,5 @@
 # Atividade de Estruturas de Dados
->Colaboradoras: Gabriel Mazzuco ([Github Profile](https://github.com/gabrielmazz)), Gustavo Pauli ([Github Profile](https://github.com/GusPauli)) e Heloisa Alves ([Github Profile](https://github.com/Helogizzy))
+>Colaboradores: Gabriel Mazzuco ([Github Profile](https://github.com/gabrielmazz)), Gustavo Pauli ([Github Profile](https://github.com/GusPauli)) e Heloisa Alves ([Github Profile](https://github.com/Helogizzy))
 
 ## Conteúdo
 Implementar os principais conceitos de:
