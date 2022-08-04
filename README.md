@@ -21,6 +21,7 @@ Implementar os principais conceitos de:
 3. Método de ordenação HeapSort
 >Linguagem utilizada: C
 
-- Para executar quaisquer códigos, apenas digite 'make run' no terminal
----
+## Execução
 
+- Para executar quaisquer códigos, apenas digite `make run` no terminal.
+---
