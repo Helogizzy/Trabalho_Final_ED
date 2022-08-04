@@ -10,14 +10,16 @@
 
 int main(void){
 
-    /*Pegamos o valor do tamanho do vetor por argumentação, que é passada
-      dentro do makefile do programa*/
+    /*Pegamos o valor do tamanho do vetor por entrada e posteriormente
+      é adicionado num vetor de tamanho n*/
     int TAM;
-    int vet[TAM];
 
     //Determina quanto será o tamanho do vetor
     printf("Determine o tamanho do vetor: ");
     scanf("%d",&TAM);
+
+    //Cria o vetor com tamanho n lido anteriormente pelo user
+    int vet[TAM];
 
     //Randomiza o vetor com números aleatorios
     randomize_vet(vet, TAM);
