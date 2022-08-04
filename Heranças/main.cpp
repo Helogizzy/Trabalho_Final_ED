@@ -93,7 +93,7 @@ int main(void){
             cin >> remove;
             clear_screen();
 
-            for(int i=0; i<fila.sizefila(); i++)
+            for(int i=0; i<remove; i++)
                 fila.removefila();
 
             clear_screen();
