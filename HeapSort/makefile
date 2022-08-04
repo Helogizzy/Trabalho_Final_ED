@@ -4,6 +4,6 @@ NAME = main
 NAME_MODULE = module
 TAM = 30
 
-all:
+run:
 	$(CC) $(NAME).c $(NAME_MODULE).c -o $(NAME) $(CFLAGS)
 	./$(NAME) $(TAM) 
