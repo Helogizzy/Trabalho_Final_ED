@@ -1,9 +1,9 @@
 CC = gcc
-CFLAGS = -O2 -march=native
+CFLAGS = -O0 -march=native
 NAME = main
 NAME_MODULE = module
-TAM = 30
 
 run:
+	clear
 	$(CC) $(NAME).c $(NAME_MODULE).c -o $(NAME) $(CFLAGS)
-	./$(NAME) $(TAM) 
+	./$(NAME)
