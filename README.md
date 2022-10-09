@@ -21,6 +21,9 @@ Implementar os principais conceitos de:
 3. Método de ordenação HeapSort
 >Linguagem utilizada: C
 
+## Ambiente de Execução
+Foi utilizado para a implementação dos algoritmos o editor de código-fonte Visual Studio Code. Ele contém o subsistema Windows para Linux (wsl), através dele conseguimos realizar todos os testes de validação. A distribuição Linux utilizada no ambiente foi o Ubuntu 20.04. 
+
 ## Execução
 
 - Para executar quaisquer códigos, apenas digite `make run` no terminal.
