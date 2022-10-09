@@ -2,7 +2,7 @@
 >Colaboradores: Gabriel Mazzuco ([Github Profile](https://github.com/gabrielmazz)), Gustavo Pauli ([Github Profile](https://github.com/GusPauli)) e Heloisa Alves ([Github Profile](https://github.com/Helogizzy))
 
 ## Conteúdo
-Implementar os principais conceitos de:
+Implementação dos principais conceitos de:
 
 * Grafos
 
